@@ -1,0 +1,6 @@
+# Arquivos de origem e pacotes locais
+*.zip
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
